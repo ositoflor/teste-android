@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1062891701913",
+    "project_id": "teste-kotlin-db113",
+    "storage_bucket": "teste-kotlin-db113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062891701913:android:52cf0c6ceac3e5894c9a08",
+        "android_client_info": {
+          "package_name": "com.example.cadastro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACyZrP9Gm39085jV3Zx7mx--d2vxMvOzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
